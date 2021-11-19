@@ -1,0 +1,41 @@
+*{
+	padding: 0;
+	margin: 0;
+	 box-sizing: border-box;
+}
+.head{
+                
+	background-size: 100% 100%;
+	width: 100%;
+	background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(1.png);
+    background-position: center;
+	background-size: cover;	
+	background-repeat: no-repeat;
+
+}
+label {
+	color: black;
+	font-weight: bolder;
+}
+.button{
+	background-color: black;
+	border-radius:  20px;
+	color: white ;
+	padding: 10px;
+}
+ h3{
+ 	background-color: black;
+ 	width: auto ;
+ 	color: white ;
+ 	float: left;
+ 	padding: 5px;
+ 	border-radius: 10px;  
+ 	cursor: pointer;                                                                                                                                                                  
+ }
+ h1{
+ 	background-color: #39ac39;
+ 	 cursor: pointer;
+ 	 width: auto ;
+ 	 color: #ffff00;
+ 	 border-radius: 10px; 
+ }

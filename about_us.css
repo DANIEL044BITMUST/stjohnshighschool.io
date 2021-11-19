@@ -1,0 +1,71 @@
+nav{
+	width: auto;
+	float: left;
+	border-radius: 20px;
+	background-color: #39ac39;
+	margin-top: 2%;
+	margin-left: 2%;
+}
+.btn a{
+	text-decoration: none;
+	background: black;
+	color: white;
+	margin: 5px;
+	padding: 10px;
+	border-radius: 20px;
+}
+.btn a:hover{
+	background: white;
+	color: black;
+	margin: 5px;
+	padding: 10px;
+	border-radius: 20px;
+}
+th{
+	font-weight: bolder;
+	color: #39ac39;
+}
+.card-header{
+	background: black;
+	color: white;
+	cursor: pointer;      
+
+}
+.card-title{
+	background: black;
+	padding: 10px;
+	border-radius: 20px;
+	width: auto;
+	float: left;
+}
+.card-text{
+	line-height: 30px;
+	font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
